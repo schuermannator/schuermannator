@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - [backmark] - back up Safari bookmarks
 
 #### Misc
-- [dotfiles] - mostly vim/fish/etc. configs
+- [dotfiles] - mostly vim/emacs/fish configs
 
 [zachschuermann.com]: https://zachschuermann.com
 [temperature]: https://temp.zvs.io
