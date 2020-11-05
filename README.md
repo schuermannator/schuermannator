@@ -22,13 +22,15 @@ Here are some ideas to get you started:
 - [office hours queue][live-wait] - live queuing system using server-sent events 
 - [league-a-lot] - check how much League of Legends your buddies play
 - [sph] - smooth particle hydrodynamics solver implemented in Haskell
-- [sph-rust] - SPH reimplemented in Rust
+  - [sph-rust] - SPH reimplemented in Rust
+  - [sph-wasm] - SPH Webassembly demo
 
 #### Tools
 - [backhub] - back up your whole github to a local directory (I run a cron job to do backups to RAID array)
 - [backmark] - back up Safari bookmarks
 
 #### Misc
+- [advent-of-code] - `WIP` Advent of Code solutions
 - [dotfiles] - mostly vim/emacs/fish configs
 
 [zachschuermann.com]: https://zachschuermann.com
@@ -37,6 +39,8 @@ Here are some ideas to get you started:
 [league-a-lot]: https://lol.zvs.io
 [sph]: https://github.com/schuermannator/sph
 [sph-rust]: https://github.com/schuermannator
+[sph-wasm]: https://sph.zvs.io
 [backhub]: https://github.com/schuermannator/backhub
 [backmark]: https://github.com/schuermannator
+[advent-of-code]: https://github.com/schuermannator/advent-of-code
 [dotfiles]: https://github.com/schuermannator/dotfiles
