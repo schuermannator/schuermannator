@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 #### Misc
 - [advent-of-code] - `WIP` Advent of Code solutions
 - [dotfiles] - mostly vim/emacs/fish configs
+- [gruvbox] - my custom fork of the gruvbox color theme
 
 [zachschuermann.com]: https://zachschuermann.com
 [lookout]: https://crates.io/crates/lookout
@@ -47,3 +48,4 @@ Here are some ideas to get you started:
 [backmark]: https://github.com/schuermannator
 [advent-of-code]: https://github.com/schuermannator/advent-of-code
 [dotfiles]: https://github.com/schuermannator/dotfiles
+[gruvbox]: https://github.com/schuermannator/gruvbox
