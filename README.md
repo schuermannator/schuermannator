@@ -19,13 +19,12 @@ Here are some ideas to get you started:
 
 #### Playground
 - [lookout] - declarative async scraping utility
+- [league-a-lot] - check how much League of Legends your buddies play
 - [sph] - smooth particle hydrodynamics solver implemented in Haskell
   - [sph-rust] - SPH reimplemented in Rust
   - [sph-wasm] - SPH Webassembly demo
 - [temperature] - small temperature sensor on a Particle Photon with a Rust server to ingest/serve data
 - [office hours queue][live-wait] - live queuing system using server-sent events 
-- [league-a-lot] - check how much League of Legends your buddies play
-
 
 #### Tools
 - [backhub] - back up your whole github to a local directory (I run a cron job to do backups to RAID array)
