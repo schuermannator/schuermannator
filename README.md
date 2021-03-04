@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 [live-wait]: https://oh.zvs.io
 [league-a-lot]: https://lol.zvs.io
 [sph]: https://github.com/schuermannator/sph
-[sph-rust]: https://github.com/schuermannator
+[sph-rust]: https://github.com/schuermannator/sph-rust
 [sph-wasm]: https://sph.zvs.io
 [backhub]: https://github.com/schuermannator/backhub
 [backmark]: https://github.com/schuermannator
