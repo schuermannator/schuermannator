@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - [office hours queue][live-wait] - live queuing system using server-sent events 
 
 #### Tools
-- [backhub] - back up your whole github to a local directory (I run a cron job to do backups to RAID array)
+- [github-backup] - back up your github repos to a local directory (I run a cron job to do regular backups to RAID array)
 - [backmark] - back up Safari bookmarks
 
 #### Misc
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 [sph]: https://github.com/schuermannator/sph
 [sph-rust]: https://github.com/schuermannator/sph-rust
 [sph-wasm]: https://sph.zvs.io
-[backhub]: https://github.com/schuermannator/backhub
+[github-backup]: https://github.com/schuermannator/github-backup
 [backmark]: https://github.com/schuermannator
 [advent-of-code]: https://github.com/schuermannator/advent-of-code
 [dotfiles]: https://github.com/schuermannator/dotfiles
